@@ -13,10 +13,10 @@ This project aims to create a resource for anyone who is willing to work on a la
 Primary Focus: Redesign the Rear Bumper Skeleton for the Pre-LP Gallardo.
 Start collecting resources to amass here.
 
-##Contributors
+## Contributors
 Feel free to download, improve, design other components, get the final assemblies made, etc. Just be warned that:
--These files are very heavy resource intensive
--A Powerful CAD oriented computer will likely be required to use and open some of these files.
+- These files are very heavy resource intensive
+- A Powerful CAD oriented computer will likely be required to use and open some of these files.
 
-##Disclaimer
+## Disclaimer
 If you chose to produce and use any of these parts, please understand it is at your own risk.
