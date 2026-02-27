@@ -1,0 +1,14 @@
+# .gitignore for excluding CAD temporary files and common software backup files
+
+# CAD temporary files
+*.tmp
+*.bak
+*.dxf~
+*.dwg~
+*.dgn~
+
+# Common software backup files
+*~
+*.swp
+*.swo
+*.ts~
