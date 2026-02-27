@@ -9,5 +9,6 @@ This project aims to create a resource for anyone who is willing to work on a la
 - Provide alternate avenues for replacement parts to reduce costs and downtime.
 - Create a knowledge base for current and future owners.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Current State As Of Feb 26. 2026
+Primary Focus: Redesign the Rear Bumper Skeleton.
+Start collecting resources to amass here.
