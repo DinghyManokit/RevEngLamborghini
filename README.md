@@ -15,7 +15,7 @@ Start collecting resources to amass here.
 
 ## Contributors
 Feel free to download, improve, design other components, get the final assemblies made, etc. Just be warned that:
-- These files are very heavy resource intensive
+- These files are very resource intensive
 - A Powerful CAD oriented computer will likely be required to use and open some of these files.
 
 ## Disclaimer
